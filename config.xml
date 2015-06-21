@@ -72,5 +72,5 @@
               <icon src="res/icon/windows8/storelogo.png" width="50" height="50" />
      </platform>
 <preference name="SplashScreen" value="screen" />
-<preference name="SplashScreenDelay" value="5000" />
+<preference name="SplashScreenDelay" value="2500" />
     </widget>
